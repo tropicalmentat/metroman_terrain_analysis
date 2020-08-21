@@ -1,4 +1,10 @@
 # Extract terrain metrics of Metro Manila terrain from digital elevation models  
+Extract terrain metrics from different DEM datasets and compare their differences.
+~Conduct terrain analysis of Metro Manila and determine the impact of terrain on routes in the metropolis' road network.~
+
+## Datasets
+- SRTM 1-arc seconds (30m) global DEM
+- ASTER 1-arc seconds (30m) global DEM
 
 ## Terrain metrics derivation
 - Download rasters from earthdata
